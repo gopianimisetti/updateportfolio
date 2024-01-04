@@ -38,7 +38,7 @@ tasks as completed or delete them</p>
               <p>The Weather App is a web application that allows users to check the current weather conditions of
 a specific location. Users can enter a city name or zip code in the search bar, and the app fetches
 weather data from a weather API and displays the relevant weather information.</p>
-              <a href="https://gopianimisetti.github.io/weatherapps" target='_blank'>Click To Open project</a>
+              <a href="https://weather-app-navy-pi.vercel.app/" target='_blank'>Click To Open project</a>
               </div> 
 
 
